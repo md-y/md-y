@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuelpreston)
 [![Handshake](https://img.shields.io/badge/-Handshake-FF2F1C?style=for-the-badge&logo=Handshake&logoColor=white)](https://app.joinhandshake.com/stu/users/41303246)
 [![Personal Website](https://img.shields.io/badge/-Personal_Website-52489C?style=for-the-badge)](https://md-y.github.io/)
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=md-y%2Fdebug&label=Visitors&countColor=%2314b8a6)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=md-y&label=Visitors&countColor=%2314b8a6)
 
 <p float="left">
 <picture>
@@ -34,11 +34,11 @@
 
 <picture>
 <source 
-  srcset="https://github-profile-trophy.vercel.app/?username=md-y&rank=-C,-B&no-frame=true&no-bg=true&theme=onestar"
+  srcset="https://github-profile-trophy.vercel.app/?username=md-y&theme=onestar&no-frame=true&no-bg=true&rank=-C,-B"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-profile-trophy.vercel.app/?username=md-y&rank=-C,-B&no-frame=true&no-bg=true&theme=flat"
+  srcset="https://github-profile-trophy.vercel.app/?username=md-y&theme=flat&no-frame=true&no-bg=true&rank=-C,-B"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img alt="Sam's GitHub Awards" style="vertical-align: top;"/>
