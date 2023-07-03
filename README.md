@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sam
 
-### I am a first year National Merit scholar at the University of Texas at Dallas studying Software Engineering
+### I am a National Merit scholar studying Software Engineering at the University of Texas at Dallas
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samuelpreston)
 [![Handshake](https://img.shields.io/badge/-Handshake-FF2F1C?style=for-the-badge&logo=Handshake&logoColor=white)](https://app.joinhandshake.com/stu/users/41303246)
